@@ -1,2 +1,2 @@
 # Cow
-expirmenting with cow
+experimenting with cow and other esoteric languages
